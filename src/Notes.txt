@@ -1,0 +1,15 @@
+Features Needed -
+Product - Product Name, Quantity, Price, Image, Variant
+
+1- User can add product
+2 - User can remove Product 
+3- Add/Make changes in Quantity
+
+
+Things to remember - 
+
+1- Avoid LocalStorage 
+2- Offline first application
+3- Data Syncing whenever user's Internet becomes live.
+4- Handle large Data
+
